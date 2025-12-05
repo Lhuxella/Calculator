@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (C:\Users\desmo\Desktop\Coding\C++\ImGUIApps\MyApplication\examples\CalculatorApp\Debug\) contains files shared from another project (example_glfw_opengl3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Calculator.cpp
+C:\Users\desmo\Desktop\Coding\C++\ImGUIApps\MyApplication\examples\CalculatorApp\Calculator.cpp(197,44): warning C4267: '+=': conversion from 'size_t' to 'short', possible loss of data
+  main.cpp
+C:\Users\desmo\Desktop\Coding\C++\ImGUIApps\MyApplication\examples\CalculatorApp\main.cpp(139,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\desmo\Desktop\Coding\C++\ImGUIApps\MyApplication\examples\CalculatorApp\main.cpp(140,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating Code...
+  Calculator.vcxproj -> C:\Users\desmo\Desktop\Coding\C++\ImGUIApps\MyApplication\examples\CalculatorApp\Debug\Calculator.exe
